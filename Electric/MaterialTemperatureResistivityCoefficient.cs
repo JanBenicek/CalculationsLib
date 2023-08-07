@@ -10,7 +10,7 @@ namespace Calculations.Electric
 	/// <summary>
 	/// Constants of Temperature Coeficients of Resistivity
 	/// </summary>
-	public class TemperatureResistivityCoefficient
+	public class MaterialTemperatureResistivityCoefficient
 	{
 
 		public static decimal Aluminium = 4.9E-3m;
