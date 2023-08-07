@@ -12,6 +12,7 @@ namespace Calculations.Electric
 	/// </summary>
 	public class TemperatureResistivityCoefficient
 	{
+
 		public static decimal Aluminium = 4.9E-3m;
 		public static decimal Brass50 = 2E-3m;
 		public static decimal Brass99 = 7E-3m;
@@ -28,16 +29,6 @@ namespace Calculations.Electric
 		public static decimal Silver = 3.8E-3m;
 		public static decimal Tin = 4.2E-3m;
 		public static decimal Wolfram = 4.1E-3m;
-
-
-
-
-
-
-
-
-
-
 
 	}
 }
