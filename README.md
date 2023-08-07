@@ -1,4 +1,4 @@
-# Calculations
+# Free CalculationsLib
 Lib of All for All.
 
 The aim of this library is to offer a library containing all kinds of mathematical calculations with easy to use.
