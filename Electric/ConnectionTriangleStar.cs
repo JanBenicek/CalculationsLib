@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Calculations.Electric
+﻿namespace Calculations.Electric
 {
     /// <summary>
     /// Calculations parameters if winding of synchronous/asynchronous motor/generator/transformer change connection between star and triangle

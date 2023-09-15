@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.NetworkInformation;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Calculations.Electric
+﻿namespace Calculations.Electric
 {
 	/// <summary>
 	/// Constants of Temperature Coeficients of Resistivity
