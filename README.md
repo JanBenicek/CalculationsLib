@@ -13,6 +13,7 @@ This Library can be freely used by anyone. I will be happy to share a link to th
 - Ohm's Law
 - Temperature if resistance change / Resistance if temperature Change
 - Voltage/Current if switch connection between Star and Triangle
+- Transfer Temperature between °C °F °K
 
 
 
