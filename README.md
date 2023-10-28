@@ -10,14 +10,17 @@ This Library can be freely used by anyone. I will be happy to share a link to th
 
 
 # Contained Calculations:
+#Electric:
 - Ohm's Law
 - Temperature if resistance change / Resistance if temperature Change
 - Voltage/Current if switch connection between Star and Triangle
+
+#Meteorology:
 - Transfer Temperature between °C °F °K
 
 
 
-#Contained Constants/Coeficients:
+Contained Electric Constants/Coeficients:
 - Temperature Coeficients of Resistivity
 
 
